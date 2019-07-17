@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Clueless Arrivals</name>
+	<author>frame</author>
+	<url>https://github.com/frame/RimWorld-CluelessArrivals</url>
+	<supportedVersions><li>1.0</li></supportedVersions>
+	<description>Adds a new industrial player faction that starts without any predefined research.
+
+Start a new game to enable:
+New Colony > Scenario Editor > Edit mode: Change Player faction to "Clueless Arrivals"
+</description>
+</ModMetaData>
