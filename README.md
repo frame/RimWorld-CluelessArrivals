@@ -16,4 +16,4 @@ There are two similar mods, with some key differences:
 [Tribals Know Nothing](https://steamcommunity.com/sharedfiles/filedetails/?id=913240446): Very similar to my mod, this adds a new neolithic faction.
 
 ## Saved Games and Compatibility
-Saves you started with the new faction will be **unplayable** if this mod is removed.
+Saves you started with the new faction will be **unplayable** if this mod is removed, however it would be easy for some players to fix it by replacing "CluelessColony" with "PlayerColony" at two locations in the save file.
