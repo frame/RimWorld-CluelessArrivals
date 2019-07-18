@@ -8,5 +8,8 @@
 
 Start a new game to enable:
 New Colony > Scenario Editor > Edit mode: Change Player faction to "Clueless Arrivals"
+
+Note: Special events that target the normal vanilla New Arrivals faction won't be triggered, like say for example the wanderer event.
+
 </description>
 </ModMetaData>
