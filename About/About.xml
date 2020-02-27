@@ -3,7 +3,11 @@
 	<name>Clueless Arrivals</name>
 	<author>frame</author>
 	<url>https://github.com/frame/RimWorld-CluelessArrivals</url>
-	<supportedVersions><li>1.0</li></supportedVersions>
+	<packageId>frame.CluelessArrivals</packageId>
+	<supportedVersions>
+		<li>1.1</li>
+		<li>1.0</li>
+	</supportedVersions>
 	<description>Adds a new industrial player faction that starts without any predefined research.
 
 Start a new game to enable:
